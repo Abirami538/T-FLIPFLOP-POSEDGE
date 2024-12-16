@@ -38,7 +38,7 @@ Developed by:ABIRAMI A
 
 
 RegisterNumber:24900822
-
+~~~
 module exp9(T,clk,Q,Qbar);
 input T,clk;
 output reg Q;
@@ -51,7 +51,7 @@ Q=(T&(~Q))|((~T)&Q);
 Qbar=~Q;
 end
 endmodule
-
+~~~
 
 
 RTL LOGIC FOR FLIPFLOPS:
