@@ -62,7 +62,7 @@ RTL LOGIC FOR FLIPFLOPS:
 
 TIMING DIGRAMS FOR FLIP FLOPS:
 
-![Screenshot 2024-12-16 221121](https://github.com/user-attachments/assets/09676111-beab-41a6-92f0-1846f26186dd)
+![Screenshot 2024-12-16 221121](https://github.com/user-attachments/assets/09676111-beab-41a6-92f0-1846f26186dd.
 
 
 
